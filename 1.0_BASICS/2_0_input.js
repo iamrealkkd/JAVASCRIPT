@@ -4,6 +4,10 @@
 // ==========================================
 
 // Import prompt-sync package for taking input
+// Import the prompt-sync package
+// Ye package user se terminal me input lene ke liye use hota hai
+// Ab prompt() function ready ho gaya
+// Isse user se input le sakte hain
 const prompt = require("prompt-sync")();
 
 // ------------------------------------------
