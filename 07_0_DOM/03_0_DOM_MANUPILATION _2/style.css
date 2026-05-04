@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.title {
+  color: black;
+}
+
+.newClass {
+  color: purple;
+  background-color: lightyellow;
+  padding: 10px;
+}
