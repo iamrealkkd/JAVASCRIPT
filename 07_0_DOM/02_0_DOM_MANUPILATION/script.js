@@ -15,3 +15,5 @@ let elements = document.querySelector("h2");//first element
 console.dir(elements);
 let allelements = document.querySelectorAll("h2");//first element
 console.dir(allelements);
+h2[0].innerText = "kkkkkkk";
+h2[0].innerHTML = "<i>kkkkkkk</i>";
